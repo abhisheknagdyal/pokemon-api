@@ -1,0 +1,16 @@
+{
+  "blog": [
+    {
+      "title": "What is HTML",
+      "body": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "What is JavaScript",
+      "body": "JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web. JavaScript is easy to learn. This tutorial will teach you JavaScript from basic to advanced.",
+      "author": "yoshi",
+      "id": 2
+    }
+  ]
+}
